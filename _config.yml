@@ -75,8 +75,8 @@ nightMode: false
 comments:
   disqus: false
   disqus_url: 'https://h2o-ac.disqus.com/embed.js'
-  waline: false
-  waline_url: 'https://h2o-ac-waline.deta.dev/'
+  waline: true
+  waline_url: 'https://comment.bachihw.top/'
   waline_reaction: false
   waline_locale: 
 
