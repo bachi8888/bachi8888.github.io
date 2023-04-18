@@ -1,12 +1,12 @@
 ---
 layout: page
-home-title: Welcome to zhonger's blog!
-description: Writing, writing, writing ...
+home-title: Welcome to bachi's blog!
+description: 生命不息，折腾不止！！！
 ---
 
 # 本站使用条款
 
-&emsp;&emsp;H2O-ac（[https://h2o-ac.pages.dev](https://h2o-ac.pages.dev)），以下简称“本站”。
+&emsp;&emsp;八尺的博客（[https://bachihw.top](https://bachihw.top)），以下简称“本站”。
 
 ## 隐私政策
 
