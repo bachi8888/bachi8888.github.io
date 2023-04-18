@@ -106,6 +106,7 @@ sns:
 # Links 友情链接
 links:
    'Google': 'https://google.com'
+   'Mr Li': 'https://lisz.me/'
 
 # Supports 赞助商
 #supports:
