@@ -38,10 +38,10 @@ nav:
   archives: '/archives.html'
   tags: '/tags.html'
   about:   
-    logs: '/logs.html'
-    tos: '/tos.html'
+    #logs: '/logs.html'
+    #tos: '/tos.html'
     RSS: '/feed.xml'
-    CV: '/cv.html'
+    #CV: '/cv.html'
     links: '/links.html'
 
 # Gray for the whole site 全站灰色
