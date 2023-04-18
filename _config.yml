@@ -77,7 +77,7 @@ comments:
   disqus_url: 'https://h2o-ac.disqus.com/embed.js'
   waline: true
   waline_url: 'https://comment.bachihw.top/'
-  waline_reaction: false
+  waline_reaction: true
   waline_locale: 
 
 # MathJax 公式支持 by Ray-Eldath
