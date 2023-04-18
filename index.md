@@ -8,10 +8,6 @@ description: 生命不息，折腾不止！！！
 
 &emsp;&emsp;I am from Mars.
 
-# Publications
-
-1. Publication 1 [[DOI]](#)
-2. Publication 2 [[DOI]](#)
 
 # Contact
 
