@@ -63,7 +63,7 @@ description: 生命不息，折腾不止！！！
 
 ## 关于本站的问题或意见
 
-&emsp;&emsp;如发现某些文章内容存在问题或有什么意见，欢迎在主站使用评论的方式直接发表。也可以通过首页公开的私人邮箱发送邮件联系，或者创建 [Github Issue](https://github.com/zhonger/jekyll-theme-H2O-ac/issues/new) 的方式联系。但是，考虑到某些情况，您所反映的问题或者意见可能不会公开发表或补充在本站。
+&emsp;&emsp;如发现某些文章内容存在问题或有什么意见，欢迎在主站使用评论的方式直接发表。也可以通过首页公开的私人邮箱发送邮件联系，或者创建 [Github Issue](https://github.com/bachi8888/bachi8888.github.io/issues/new) 的方式联系。但是，考虑到某些情况，您所反映的问题或者意见可能不会公开发表或补充在本站。
 
 ## 免责声明
 
