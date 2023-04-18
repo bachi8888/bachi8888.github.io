@@ -1,12 +1,12 @@
 ---
 layout: page
-home-title: H2O-ac Theme For Jekyll
-description: 基于可能是最好看的 Jekyll 主题 H2O 的学术版主题
+home-title: 八尺的博客
+description: 生命不息，折腾不止！！！
 ---
 
 # About me
 
-&emsp;&emsp;I am a PhD student from xxx University.....
+&emsp;&emsp;I am from Mars.
 
 # Publications
 
@@ -15,17 +15,13 @@ description: 基于可能是最好看的 Jekyll 主题 H2O 的学术版主题
 
 # Contact
 
-Email: zhonger[at]live.cn (Please replace [at] with @.)
+Email: jiuchi8888[at]outlook.com (Please replace [at] with @.)
 
 # 关于我
 
-&emsp;&emsp;我是一名来自xx大学的博士生。。。。。。
+&emsp;&emsp;我来自地球。。。。。。
 
-# 论文发表
-
-1. 论文1 [[DOI]](#)
-2. 论文2 [[DOI]](#)
 
 # 联系我
 
-邮箱：zhonger[at]live.cn (请使用@替换[at])
+邮箱：jiuchi8888[at]outlook.com (请使用@替换[at])
