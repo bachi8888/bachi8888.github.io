@@ -1,7 +1,7 @@
 ---
 layout: links
-home-title: H2O-ac theme for Jekyll
-description: 基于可能是最好看的 Jekyll 主题 H2O 的学术版主题
+home-title: 八尺的博客
+description: 生命不息，折腾不止！！！
 comments:
   waline: true
 ---
