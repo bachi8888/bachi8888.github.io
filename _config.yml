@@ -196,7 +196,7 @@ foreverblog: false
 wormhole: false
 
 # Alive time
-alivetime: false
+alivetime: true
 alivestart: "04/18/2023"
 
 # TOC
