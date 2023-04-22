@@ -133,7 +133,7 @@ busuanzi: true
 
 # Google Analytics
 # google_analytics: UA-XXXXXXXXX-X
-#google_analytics: 
+google_analytics: UA-161396086-1
 
 # Google Search
 google_search: 
